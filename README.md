@@ -1,4 +1,4 @@
-# Tube Loss for Conformal Prediction
+# Tube Loss
 
 This repository implements **Tube Loss**, a novel loss function for conformal prediction that directly optimizes prediction intervals for both coverage and efficiency.
 
